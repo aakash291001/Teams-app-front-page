@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Teams-app-front-page/static/css/main.55d283c7.css",
+    "main.js": "/Teams-app-front-page/static/js/main.15ef78de.js",
+    "static/js/787.a781a279.chunk.js": "/Teams-app-front-page/static/js/787.a781a279.chunk.js",
+    "index.html": "/Teams-app-front-page/index.html",
+    "main.55d283c7.css.map": "/Teams-app-front-page/static/css/main.55d283c7.css.map",
+    "main.15ef78de.js.map": "/Teams-app-front-page/static/js/main.15ef78de.js.map",
+    "787.a781a279.chunk.js.map": "/Teams-app-front-page/static/js/787.a781a279.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d283c7.css",
+    "static/js/main.15ef78de.js"
+  ]
+}
