@@ -1,0 +1,50 @@
+.dailer-container
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    /* height: 100%; */
+    padding: 6px 0px;
+}
+.dailer-container:hover{
+    color:#6467a7;
+}
+.dailer-avatar
+{
+    font-size: 30px;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+.dailer-name
+{
+    display: flex;
+    flex: 2;
+    justify-content: center;
+    align-items: center;
+}
+.dailer-icon
+{
+    font-size: 18px;
+    display: flex;
+    flex: 2;
+    justify-content: space-around;
+    align-items: center;
+}
+.dailer-cam:hover{
+    padding: 4px;
+    font-size:20px;
+    border:2px solid white;
+    border-radius: 20px;
+    background-color: #6467a7;
+    color:white
+}
+.dailer-mic:hover{
+    padding: 4px;
+    font-size:20px;
+    border:2px solid white;
+    border-radius: 20px;
+    background-color: #6467a7;
+    color:white
+}

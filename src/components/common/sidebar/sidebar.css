@@ -1,0 +1,32 @@
+.sidebar-container
+{
+    padding-top: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: #E5E4E2;
+    z-index: -1;
+}
+.sidebar-top
+{
+    display: flex;
+    flex: 10;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.sidebar-more
+{
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.sidebar-bottom
+{
+    flex: -1;
+    padding: 10px;
+    justify-content: flex-end;
+}

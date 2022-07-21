@@ -1,0 +1,71 @@
+.rightFold-container
+{
+    display: flex;
+    padding: 12px 24px;
+    background-color: #f5f5f5;
+    flex-direction: column;
+}
+.rightFold-header
+{
+    padding: 5px 10px;
+    border-bottom: 2px solid #616161;
+}
+.rightFold-label
+{
+    font-size: 24px;
+    font-weight: 600;
+    color: #616161;
+}
+
+.rightFold-options
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 16px 0px;
+}
+.rightFold-search
+{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 4px;
+    padding: 8px;
+}
+.rightFold-search input{
+    padding: 4px;
+    margin-right: 4px;
+    border: none;
+    outline: none;
+}
+.rightFold-addContact
+{
+    display: flex;
+    background-color: #6264a7;
+    width:fit-content;
+    color: #f5f5f5;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+.rightFold-addBtn {
+    background-color: #6264a7;
+    color: #f5f5f5;
+    border: none;
+    margin-left: 4px;
+    font-size: 15px;
+}
+.rightFold-addBtn:hover {
+    background-color: #6264a7;
+    color: #f5f5f5;
+    border: none;
+    margin-left: 4px;
+    font-size: 18px;
+}
+.contactList
+{
+    display: flex;
+    flex-wrap: wrap;
+}

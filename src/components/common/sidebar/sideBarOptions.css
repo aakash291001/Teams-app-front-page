@@ -1,0 +1,30 @@
+.sideBarOptions-container
+{
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:#616161;
+    cursor: pointer;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.sideBarOption-label
+{
+    font-size: 10px;
+}
+.sideBarOption-icon
+{
+    font-size: 24px;
+}
+.active
+{
+    color:#6264a7;
+    border-left: 4px solid #6264a7;
+}
+.sideBarOptions-container:hover
+{
+    color: #6264a7;
+}
