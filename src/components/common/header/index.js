@@ -21,7 +21,7 @@ export default function Header() {
           </div>
           <img
             className="header-avatar"
-            src="https://cdn-icons.flaticon.com/png/512/706/premium/706807.png?token=exp=1658355732~hmac=6d4caaa61798d5c5453fbf4be3ea1891"
+            src="https://cdn-icons-png.flaticon.com/512/236/236832.png"
           />
         </div>
       </div>

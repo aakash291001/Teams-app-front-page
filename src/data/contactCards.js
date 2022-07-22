@@ -9,7 +9,7 @@ export const contactData = [
         id:2,
         name:"Ankit Kemwal",
         type:"Leader",
-        avatar:"https://cdn-icons.flaticon.com/png/512/506/premium/506134.png?token=exp=1658435066~hmac=163e811cfcf0ccf7b8c781a9998fa4de"
+        avatar:"https://cdn-icons-png.flaticon.com/512/476/476863.png"
     },
     {
         id:3,
